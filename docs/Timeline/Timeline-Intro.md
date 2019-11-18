@@ -49,12 +49,7 @@ Is there administrative support in terms of practical organization (e.g. handlin
    f. Advertise location/venue as soon as possible once you know the dates and location (e.g. via the AAS Astrostatistics Working Group, this list of astronomy meetings, the Astrostatistics + Astroinformatics Portal, e-mail lists, local universities, everyone you know, …)
 
 ### Funding
-1. A hack week costs of the order of $25,000:
-      * $5,000 rooms (not everywhere)
-      * $6,000 lunch
-      * $2,000 coffee
-      * $1,000 incidentals
-      * $11,000 travel funding
+1. A hack week requires funding for a number of different costs: rooms (not always), lunch, coffee, travel funding for some of the participants, potentially salaries for organizers and especially administrative staff, and of course some incidentals.
 2. Do rooms need to be paid for extra? This is often the case e.g. in the US! Check this!
 3. What are available governmental funding sources? (multi-)national agencies (NIH, NASA, ERC, …): this funding probably needs an application >1 year in advance of the event
 4.  Are there private foundations that might be willing to provide funding (e.g. Moore and Sloan Foundations)? Make contact + check procedures >1 year in advance 
@@ -77,10 +72,11 @@ Is there administrative support in terms of practical organization (e.g. handlin
    f. Contact information for the SOC
    g. Information about live stream, code of conduct, …
    h. (Link to application form, once it’s live)
-2. **Announce the event**:
-   a. Where are typical venues for announcing evens in your community?
-   b. Prepare e-mail to colleagues + mailing list
-   c. Reach out to communities traditionally underserved in your field (e.g. community colleges, minority working groups within your professional societies)
+
+### Announce the event
+1. Where are typical venues for announcing events in your community?
+2. Prepare e-mail to colleagues + mailing list
+3. Reach out to communities traditionally underserved in your field (e.g. community colleges, minority working groups within your professional societies)
 
 ### Participant Selection
 **Important note**: This is one of the most important parts of preparing the workshop, so it deserves ample time and consideration. Be aware that there are systematic biases likely present in every part of this! E.g. participants from certain backgrounds might have had fewer opportunities to learn certain skills (like coding), so requiring a certain amount of coding skills might disadvantage certain groups inadvertently! If you require things like motivational statements and/or letters of reference, be aware of biases in recommendation letters, and things like biases related to English language ability. Fundamentally, be aware that there might be biases in the process, and work to mitigate those biases wherever you can!
