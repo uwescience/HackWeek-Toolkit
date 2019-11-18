@@ -1,6 +1,6 @@
 # Overview
 
-This documentation provides information on methods for hosting and facilitating data science educational workshops. The approaches described here come out of experimentation with the [hackweek model](https://www.pnas.org/content/115/36/8872.short) designed within the [Moore/Sloan Data Science Environment](http://msdse.org/). Previous events include [astrohackweek](https://astrohackweek.org), [geohackweek](https://geohackweek.github.io), [neurohackadamey](https://neurohackademy.org), [waterhackweek](https://waterhackweek.github.io), [oceanhackweek](https://oceanhackweek.github.io) and [Cryospheric Sciences with ICESat-2 hackweek](https://icesat-2hackweek.github.io).
+This documentation provides information on methods for hosting and facilitating participant-driven data science workshops. The approaches described here come out of experimentation with the [hackweek model](https://www.pnas.org/content/115/36/8872.short) designed within the [Moore/Sloan Data Science Environment](http://msdse.org/), and borrow ideas from [The Carpentries](https://carpentries.org/). Previous events include [astrohackweek](https://astrohackweek.org), [geohackweek](https://geohackweek.github.io), [neurohackadamey](https://neurohackademy.org), [waterhackweek](https://waterhackweek.github.io), [oceanhackweek](https://oceanhackweek.github.io) and [Cryospheric Sciences with ICESat-2 hackweek](https://icesat-2hackweek.github.io).
 
 The overall mission of these types of events is to create conditions that foster and enable:
 
@@ -14,7 +14,6 @@ In general, these events aim to blend the best elements of summer schools and ha
 
 One unifying element of our work is that we intend to teach and colloaborate in ways that are inclusive of people from a diverse range of backgrounds. Throughout our documentation we try to identify ways that we think this can be achieved, while recognizing that we have much to learn and that this a constantly evolving area of work for us. 
 
+## How to contribute
 
-
-
-
+This is an evolving document, and we invite other organizers or past event participants to contribute ideas and feedback. We welcome your contributions in the form of [issues](https://github.com/uwescience/HackWeek-Toolkit/issues), [pull requests](https://github.com/uwescience/HackWeek-Toolkit/pulls) and/or direct emails to [Anthony Arendt](mailto:arendta@uw.edu) and [Daniela Huppenkothen](mailto:dhuppenk@uw.edu).
