@@ -1,10 +1,16 @@
 site_name: HackWeek Toolkit
 nav:
     - Home: index.md
-    - Facilitation: Facilitation.md
-    - Hacking: Hacking.md
-    - Participant Selection: ParticipantSelection.md
-    - Tutorials: Tutorials.md
+    - Facilitation:
+        - 'Introduction': 'Facilitation/Facilitation-intro.md'
+        - 'Opening': 'Facilitation/opening.md'
+        - 'Project Formation': 'Facilitation/projects.md'
+    - Hacking: 
+        - 'Introduction': 'Hacking/Hacking-intro.md'
+    - Participant Selection: 
+        - 'Introduction': 'ParticipantSelection/ParticipantSelection-intro.md'
+    - Tutorials: 
+        - 'Introduction': 'Tutorials/Tutorials-intro.md'
     - Website: Website.md
 theme: 
     name: readthedocs
