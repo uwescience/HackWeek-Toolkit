@@ -7,6 +7,15 @@ maintain this documentation.
 
 ### Anthony Arendt
 
+<table>
+   <tr>
+     <td><img src="" alt="portrait of Anthony Arendt"></td>
+     </td>
+     <td>
+       Add short bio here!
+     </td>
+   </tr>
+</table>
 
 
 ### Daniela Huppenkothen
@@ -18,6 +27,9 @@ maintain this documentation.
 </table>
 
 
+## Contributors
+
+We don't have any contributors yet! If you'd like to contribute (and please do!), check out our [how to contribute]() section!
 
 
 
