@@ -7,13 +7,13 @@ These are suggestions that we’ve found helpful in the past. Feel free to adapt
 ## About 1-1.5 years in advance
 
 ### Objectives
-1. Figure out your motivation for organizing a hack week. What drives the need for a hack week?
+1. **Figure out your motivation** for organizing a hack week. What drives the need for a hack week?
    a. What are the objectives of a hack week? Set the objectives and goals:
    b. What do you want participants to produce?
    c. What do you want participants to have learned?
    d. How/where/in what form do you want participants to connect with each other?
    e. What other possible goals could you have during a hack week
-2. Preparing for Feedback + Evaluation
+2. **Prepare for Feedback + Evaluation**
    a. Are there certain goals (or possibly requirements from a funding agency) with respect to evaluation of the workshop? Clarify those goals early on!
    b. If any scientific research is planned in any way in relation to the hack week, this is the time to initiate the procedures for ethical research (depending on country/institution; in the US this is run by an Institutional Review Board)! In most countries, any human subject research must be cleared by the ethics board of the institution! Do this!
 
@@ -68,7 +68,7 @@ Is there administrative support in terms of practical organization (e.g. handlin
 ## About 1 year to 6 months in advance
 
 ### Website
-1. Prepare a Website: this should be done early on, definitely as soon as the hack week is announced.
+1. **Prepare a Website**: this should be done early on, definitely as soon as the hack week is announced.
    a. What? Why? Where? How?
    b. Who are the organizers?
    c. Who is speaking (if you know it already)?
@@ -77,7 +77,7 @@ Is there administrative support in terms of practical organization (e.g. handlin
    f. Contact information for the SOC
    g. Information about live stream, code of conduct, …
    h. (Link to application form, once it’s live)
-2. Announce the event:
+2. **Announce the event**:
    a. Where are typical venues for announcing evens in your community?
    b. Prepare e-mail to colleagues + mailing list
    c. Reach out to communities traditionally underserved in your field (e.g. community colleges, minority working groups within your professional societies)
