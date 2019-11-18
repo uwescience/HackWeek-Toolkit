@@ -83,6 +83,8 @@ Is there administrative support in terms of practical organization (e.g. handlin
    f. Contact information for the SOC
    g. Information about live stream, code of conduct, …
    h. (Link to application form, once it’s live)
+2. **Set up an e-mail address** as point of contact for potential participants
+3. **Set up a mailing list** for announcements that interested researchers can sign up for. 
 
 ### Announce the event
 1. Where are typical venues for announcing events in your community?
