@@ -30,4 +30,11 @@ every time. Expect the contents of this repository to change as we
 learn and evolve. Please consider adding your own resources, ideas 
 and experiences so that we and others can learn from you!
 
+## Technical notes
 
+* This documentation is built and deployed using [mkdocs](https://www.mkdocs.org/).
+* install mkdocs from conda-forge: ```conda install -c conda-forge mkdocs```
+* To develop locally: ```mkdocs serve```
+* To publish to GitHub: ```mkdocs gh-deploy```
+* This uses the markdown extensions [admonition](https://squidfunk.github.io/mkdocs-material/extensions/admonition/) and the markdown plugin [markdownextradata](https://github.com/rosscdh/mkdocs-markdownextradata-plugin/)
+* edit the mkdocs.yml file to customize the hackweek name and website to your particular event
