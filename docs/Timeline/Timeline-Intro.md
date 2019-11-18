@@ -6,6 +6,17 @@ These are suggestions that we’ve found helpful in the past. Feel free to adapt
 
 ## About 1-1.5 years in advance
 
+### Form a Scientific and Local Organizing Committee(s)
+1. Define the different roles required for successful organization: e.g. building a website, coordinating tutorial leads, corresponding with participants, advertising the event, coordinating with local staff (about rooms, catering etc), facilitation during the event
+2. Build a team that is distributed in expertise and interests across these roles
+3. Elect a "cat herder in chief": a person who makes sure the team is on track, online calls get scheduled and reminders are sent out.
+4. Make sure things get done:
+   a. Define all roles
+   b. Build a roadmap for completion of tasks
+   c. Assign tasks to team members
+4. Establish rules for working together (e.g. a code of conduct among the committee)  
+5. Settle on team communication (asynchronous communication via slack/e-mail? Regular online calls?)
+
 ### Objectives
 1. **Figure out your motivation** for organizing a hack week. What drives the need for a hack week?
    a. What are the objectives of a hack week? Set the objectives and goals:
