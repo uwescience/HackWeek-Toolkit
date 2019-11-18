@@ -1,3 +1,0 @@
-# Facilitating Hack Weeks
-
-Careful group facilitation is at the core of any hack week. Unlike a traditional conference or workshop, where organizers can recruit speakers and chairs, who will moderate the interaction between speakers and audience, hack weeks aim to break open the traditional separation between audience and speakers. Instead, organizers have to ask themselves important questions: how do we get participants to get to know each other and start talking? How do we make sure that group work is equitable, such that everyone can contribute, and the group isn't dominated by a single person? How do we even get participants to stand up and propose projects? 

@@ -1,0 +1,16 @@
+site_name: HackWeek Toolkit
+nav:
+    - Home: index.md
+    - Facilitation: Facilitation.md
+    - Hacking: Hacking.md
+    - Participant Selection: ParticipantSelection.md
+    - Tutorials: Tutorials.md
+    - Website: Website.md
+theme: 
+    name: readthedocs
+    highlightjs: true
+plugins:
+    - search
+markdown_extensions:
+  - admonition
+repo_url: https://github.com/uwescience/HackWeek-Toolkit
