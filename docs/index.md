@@ -16,4 +16,4 @@ One unifying element of our work is that we intend to teach and colloaborate in 
 
 ## How to contribute
 
-This is an evolving document, and we invite other organizers or past event participants to contribute ideas and feedback. We welcome your contributions in the form of [issues](https://github.com/uwescience/HackWeek-Toolkit/issues), [pull requests](https://github.com/uwescience/HackWeek-Toolkit/pulls) and/or direct emails to [Anthony Arendt](mailto:arendta@uw.edu) and [Daniela Huppenkothen](mailto:dhuppenk@uw.edu).
+This is an evolving document, and we invite other organizers or past event participants to contribute ideas and feedback. Do you disagree with anything we have posted? Have you tried activities within you events, other than what we describe here, that you think need to be shared? We welcome your contributions in the form of [issues](https://github.com/uwescience/HackWeek-Toolkit/issues), [pull requests](https://github.com/uwescience/HackWeek-Toolkit/pulls) and/or direct emails to [Anthony Arendt](mailto:arendta@uw.edu) and [Daniela Huppenkothen](mailto:dhuppenk@uw.edu).
