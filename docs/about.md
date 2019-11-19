@@ -8,11 +8,12 @@ We are the organizers of various participant-driven events across the globe (wit
 
 <table>
    <tr>
-     <td>
-       Anthony Arendt holds a joint appointment at the University of Washington as a Principal Research Scientist at the [Applied Physics Laboratory](https://www.apl.washington.edu/) and a Senior Research Fellow at the [eScience Institute](https://escience.washington.edu). Anthony conducts research on the impacts of glacier change on water resources and sea level using remote sensing datasets. He empowers teams to work collaboratively toward solving complex enviornmental problems through data sharing and the building of open source software. 
-     </td>
+        </td>
      <td><img src="../img/AnthonyArendt_photo.png" width=1000 alt="portrait of Anthony Arendt"></td>
      </td>
+     <td>
+       Anthony Arendt holds a joint appointment at the University of Washington as a Principal Research Scientist at the <a href="https://www.apl.washington.edu/">Applied Physics Laboratory</a> and a Senior Research Fellow at the <a href="https://escience.washington.edu">eScience Institute</a>. Anthony conducts research on the impacts of glacier change on water resources and sea level using remote sensing datasets. He is interested in empowering scientists to work collaboratively toward solving complex enviornmental problems through data sharing and the building of open source software. 
+
    </tr>
 </table>
 
