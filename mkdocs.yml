@@ -1,10 +1,18 @@
 site_name: HackWeek Toolkit
 nav:
     - Home: index.md
+    - About: about.md
     - Facilitation:
         - 'Introduction': 'Facilitation/Facilitation-intro.md'
-        - 'Opening': 'Facilitation/opening.md'
-        - 'Project Formation': 'Facilitation/projects.md'
+        - 'Opening the Event': 'Facilitation/event-introduction.md'
+        - 'Setting the Stage': 'Facilitation/community-building.md'
+        - 'Pitching Hacks/Projects': 'Facilitation/pitching-hacks.md'
+        - 'Checking In': 'Facilitation/checking-in.md'
+        - 'Mediating Conflict': 'Facilitation/mediating-conflict.md'
+        - 'Wrapping Up': 'Facilitation/wrap-up.md'
+        - 'Astrohackweek Facilitation': 'Facilitation/AHW-Facilitation.md'
+        - 'Geohackweek Facilitation': 'Facilitation/GHW-facilitation.md'
+        - 'Future Experiments': 'Facilitation/future-experiments.md'
     - Hacking: 
         - 'Introduction': 'Hacking/Hacking-intro.md'
     - Participant Selection: 
