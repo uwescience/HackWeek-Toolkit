@@ -12,14 +12,15 @@ nav:
         - 'Wrapping Up': 'Facilitation/wrap-up.md'
         - 'Astrohackweek Facilitation': 'Facilitation/AHW-Facilitation.md'
         - 'Geohackweek Facilitation': 'Facilitation/GHW-facilitation.md'
-        - 'Future Experiments': 'Facilitation/future-experiments.md'
+        - 'Future Experiments': 'Facilitation/Future-experiments.md'
     - Hacking: 
         - 'Introduction': 'Hacking/Hacking-intro.md'
     - Participant Selection: 
         - 'Introduction': 'ParticipantSelection/ParticipantSelection-intro.md'
     - Tutorials: 
         - 'Introduction': 'Tutorials/Tutorials-intro.md'
-    - Website: Website.md
+    - Website: 
+        - 'Website': 'Website/Website-intro.md'
 theme: 
     name: readthedocs
     highlightjs: true
