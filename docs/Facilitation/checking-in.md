@@ -1,6 +1,6 @@
 # Checking-in
 
-As event organizers it is easy to think that once we have established a code of conduct and shared ideas about norms of behavior, that our job is done and we can sit back to watch the event unfold. In our experience it is necessary to offer consistent facilitation throughout the event. One reason for this is that people have a tendancy to forget things, even after a few days. This may be especially true when we are in an environment that is challenging us in new ways. Another reason for consistent check-ins is that after a few days, people will have had some first-hand experience with working in teams and conflicts may arise in ways they never might have imagined at the start of the event.
+Whereas the code of conduct and norms of behavior establish the initial conditions for a positive learning experience, regular check-ins help to sustain those conditions across the duration of the event. It is a common misconception among organizers that setting intentions around the learning environment on day one is sufficient. People have a tendancy to forget things, and conflicts may arise several days into the event in ways people might never have imagined on day one.
 
 ## Project Check-ins
 
