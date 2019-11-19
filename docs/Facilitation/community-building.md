@@ -1,8 +1,10 @@
 # Community Building 
 
+A core goal of our events is to build a community of practice around principles of data sharing, open source code development and the free exchange of scientific ideas. Relationship between participants help to build and sustain such a community, and this requires ample opportunities for exchanges with others, especially people we might not have met. We therefore encourage early interactions between participants and seek to keep those exchanges flowing throughout the duration of the event.
+
 ## Icebreaker
 
-Hackweeks are designed to be highly interactive experiences, so we try to get people talking with each other early in the event. A well designed icebreaker can help participants explore connections with people they do not yet know, and get people thinking creatively about what they hope to accomplish during the event. Good icebreakers create a hospitable space for connection and conversation, while poorly conecived icebreakers put people on the spot and create a stressful social interaction, which should be avoided this early in the event. As with all facilitated activities, participants should be made aware that their involvement is by invitation and is not a required component of the event.
+A well designed icebreaker can help participants explore connections with people they do not yet know, and get people thinking creatively about what they hope to accomplish during the event. Good icebreakers create a hospitable space for connection and conversation, while poorly conecived icebreakers put people on the spot and create a stressful social interaction, which should be avoided this early in the event. As with all facilitated activities, participants should be made aware that their involvement is by invitation and is not a required component of the event.
 
 ## Creating a Welcoming Learning Community
 
