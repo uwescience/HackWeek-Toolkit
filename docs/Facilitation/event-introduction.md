@@ -23,3 +23,8 @@ During the opening session we draw everyone's attention to the code of conduct a
 
 ## Imposter Phenomenon
 
+It is common across all levels of technical and academic endeavors to feel as if one's existing knowledge and skill set is below the level of others in their community, and that one doesn't really belong at a particular event. This is a particularly acute challenge at hackweeks where we welcome everyone from beginners to experts, and where we explore tools and approaches that may have just been invented by the open source community. Because of the complex, rapidly changing nature of data science studies, feeling like an imposter is an extremely common and normal experience for people across all levels of experience. Therefore we prefer to call this experience the "Imposter Phenomenon", rather than the more commonly used "Imposter Syndrome", because we feel the term "Syndrome" suggests a pathology, which goes counter to our assertion that this is a common and normal experience. 
+
+As shown in our detailed hackweek case studies, different hackweeks have worked to mitigate Imposter Phenomenon in different ways. But common to all of our approaches is the creation of a community space that not only makes it safe to fail, but actually encourages it (see this [blog post](https://medium.com/@dataethnography/hacked-ethnographic-fieldnotes-4e59bc95f4e5) for more details). We aim to convey the idea that data science studies are complex and require a series of experiments, some of which will succeed, and some of which will fail. We gain as much from the success as the failures as we learn to amplify success and avoid the path to failure in our future experiments. 
+
+
