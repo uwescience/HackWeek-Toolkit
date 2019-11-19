@@ -9,6 +9,8 @@ nav:
         - 'Checking In': 'Facilitation/checking-in.md'
         - 'Mediating Conflict': 'Facilitation/mediating-conflict.md'
         - 'Wrapping Up': 'Facilitation/wrap-up.md'
+        - 'Astrohackweek Facilitation': 'Facilitation/AHW-Facilitation.md'
+        - 'Geohackweek Facilitation': 'Facilitation/GHW-facilitation.md'
         - 'Future Experiments': 'Facilitation/future-experiments.md'
     - Hacking: 
         - 'Introduction': 'Hacking/Hacking-intro.md'
