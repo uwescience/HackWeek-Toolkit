@@ -1,6 +1,7 @@
 site_name: HackWeek Toolkit
 nav:
     - Home: index.md
+    - About: about.md
     - Facilitation:
         - 'Introduction': 'Facilitation/Facilitation-intro.md'
         - 'Opening the Event': 'Facilitation/event-introduction.md'
