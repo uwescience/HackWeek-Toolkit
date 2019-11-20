@@ -80,4 +80,21 @@ In both cases, guidance to participants includes defining the key problem in ter
 solve that particular problem, and to write down the specific questions that are to be asked. In addition, 
 we ask participants to identify the proposed methods and tools used to solve it, as well as what skills and 
 knowledge from the participants might be helpful to achieve the goal.
+Organizers should encourage participants proposing projects to think carefully about how early-stage learners 
+can meaningfully contribute to their projects. Our hack weeks often include learners with little to no technical 
+knowledge, which puts them at risk of exclusion in an environment dominated by researchers experienced in writing 
+code and developing new and advanced methods. 
+
+## Checking in with the Team
+
+For organizers, it is important to periodically check in with the teams. This can happen in a structured way 
+(e.g. Geo Hack Week has a formal check-in with guided activities on Day 3), or informally (Astro Hack Week 
+has one or more facilitators move through the room, observe the team work process and step in with advice or 
+requests as needed). It is especially important to look out for participants who are very junior, whose 
+potential to meaningfully contribute might get lost as more experienced team members rapidly prototype 
+complex solutions.
+Including early-stage learners and ensuring that they can meaningfully
+contribute to the projects (for example by trying out a new method and finding bugs, writing a tutorial for other 
+early-stage learners, etc.) and that their contributions are valued fully and equally by the team is an important 
+facilitation task during project work.
 
