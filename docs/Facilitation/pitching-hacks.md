@@ -36,12 +36,3 @@ The first few hours of a team's interactions can be critical in setting the tone
 
 We recommend that the data science and project team leads should play an active role in facilitating the development of team interactions that include everyone on the team, and that help people rapidly find project activites that align with their skills. 
 
-At geohackweek we invite participants to begin by documenting what they currently know aout the problem  
-
-### Project Check-ins
-
-It is a good idea to have regular check-ins with project teams in an effort to identify challenges before they become problematic, as well as to share any achievements and successes so far. The check-ins can be quite short, for example a 5-10 minute stand-up meeting where each team is asked to share one success and one challenge in their project so far. This is reported out to the full group in the hopes that other teams might be able to offer advice or resources in an area where a team might be stuck. At geohackweek we distributed post-it notes to each team on day 3 of the event and invited everyone to write down specific things that were working well, and other things that were areas for improvement. These were then displayed anonomyously on poster paper attached to a wall visible to everyone. As a group we then looked for patterns and common themes and discussed potential courses of action to address chellenges that needed to be solved.
-
-## Final Presentations
-
-Final presentations are an opportunity for everyone to share what was accomplished within each team to the entire group. The duration of the presentations are fixed, but the format is flexible to allow groups to design a presentation that fits their particular work. We find that most groups distribute the speaking opportunities to most if not every member of the team, with one person providing an overall summary and integration of the work presented. 

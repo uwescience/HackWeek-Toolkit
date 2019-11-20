@@ -9,6 +9,7 @@ The overall mission of these types of events is to create conditions that foster
 * opportunities for networking and learning about job opportunities and career pathways
 * practice in working in small collaborative team settings
 * project work aimed at making rapid progress on specific data science challenges 
+* exploring and practicing healthy and professional modes of behavior within scientific communities
 
 In general, these events aim to blend the best elements of summer schools and hackathons. There is no one right way to host and facilitate these events, and each version has experimented with a range of different approaches. This documentation is intended to serve as a general reference for event planners to choose from a range of tools that we have found work well. Specific implmentations will depend on the group size, the level to which particular communities have already adopted open source and reproducible methods, and the specific learning objectives of each event. 
 
