@@ -84,6 +84,12 @@ Organizers should encourage participants proposing projects to think carefully a
 can meaningfully contribute to their projects. Our hack weeks often include learners with little to no technical 
 knowledge, which puts them at risk of exclusion in an environment dominated by researchers experienced in writing 
 code and developing new and advanced methods. 
+In this context, it can also be helpful to encourage projects that don't directly require advanced technical 
+skills, especially if they are proposed by those participants themselves. For example, Astro Hack Week has 
+seen projects e.g. where a group of learners taught themselves a particular technical skill through generally 
+available tutorials, then wrote an astronomy-themed tutorial on that skill as part of their hack. Similarly, 
+early-career participants at Astro Hack Week have hacked for example on knowledge resources for graduate school 
+applications and creative projects like designing the logo for a software package.
 
 ## Checking in with the Team
 
