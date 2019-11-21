@@ -1,10 +1,14 @@
 site_name: HackWeek Toolkit
 nav:
     - Home: index.md
+    - About: about.md
+    - Organizing Committee:
+        - 'Introduction': 'OrganizingCommittee/Committee-intro.md'
+        - 'Formation': 'OrganizingCommittee/Committee-formation.md'
+        - 'Structure': 'OrganizingCommittee/Committee-structure.md'
     - Venues:
         - 'Introduction': 'Venues/Venues-General.md'
         - 'Examples': 'Venues/Venues-Ideas.md'
-    - About: about.md
     - Facilitation:
         - 'Introduction': 'Facilitation/Facilitation-intro.md'
         - 'Opening the Event': 'Facilitation/event-introduction.md'
