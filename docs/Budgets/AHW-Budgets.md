@@ -11,12 +11,21 @@ and Astro Hack Week received administrative support from these venues once the a
 was accepted. Because this administrative support was not part of the official budget, we 
 don't have a good sense of how to report it here.
 
+In addition to the budgets below, Astro Hack Week has always fundraised about 
+$15,000 worth of money for participant-related expenses. These funds allowed us 
+to fund participants with little or no travel funding as well as dependent-care 
+grants. In part, these sponsorships were provided by companies in the tech sector, 
+but also by scientific organizations like [ASTRON](https://www.astron.nl) and 
+the [eScience Institute](https://escience.washington.edu), as well as by foundations 
+like the [Moore Foundation](https://www.moore.org).
+
 If there is a way to include administrative support in funding proposals, or apply to 
 venues that have professional administrative support, we encourage you to do so! There 
 are many difficult questions to be solved in the design and implementation of a hack week.
 Having someone whose dedicated task are practical questions like reserving rooms, communicating 
 with catering, making hotel bookings and dealing with registrations, to name a few, is a 
 huge relief.
+
 
 ## Astro Hack Week 2018: Lorentz Centre Leiden
 
