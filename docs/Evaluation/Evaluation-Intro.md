@@ -1,7 +1,7 @@
 # Evaluation
 
 How do we know whether the hack week was successful? What does successful even mean, and how do we define 
-metrics for that success? How can we figure out whether the hack week was successful?
+metrics for that success? 
 
 Hack weeks take a great deal of work to organize, and as organizers we often want to know whether the 
 time and effort spent on the organization was valuable. Did the workshop serve the needs we hoped it would 
@@ -20,8 +20,8 @@ that need to be made during implementation, there is a huge amount of research a
 we can draw from (e.g. best practices for teaching computational methods), some of which we aim to share 
 on the resources page. However, as organizers we also acknowledge that we do not necessarily have the deep 
 knowledge on the current state of research in all topics that are relevant to hack week organization, and 
-that we are learners, too. And some things, like how to facilitate the creation of hacks and the formation 
-of project teams, there is no established best-practices wisdom to our nowledge.
+that we are learners, too. And for some things, like how to facilitate the creation of hacks and the formation 
+of project teams, there is no established best-practices wisdom to our knowledge.
 
 While learning and improving our knowledge of research areas that directly touch the hack week model where 
 we can, we often implement new ideas as *experiments* where that knowledge isn't available. We have an 
