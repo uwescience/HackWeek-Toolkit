@@ -23,10 +23,11 @@ nav:
         - 'Geohackweek Facilitation': 'Facilitation/GHW-facilitation.md'
         - 'Future Experiments': 'Facilitation/Future-experiments.md'
     - Hacking: 
-        - 'Introduction': 'Hacking/Hacking-intro.md'
+        - 'Introduction': 'Hacking/Hacks-Intro.md'
         - 'Astro Hack Week Template': 'Hacking/AHW-Hack-Template.md'
     - Tutorials: 
         - 'Introduction': 'Tutorials/Tutorials-intro.md'
+        - 'Design': 'Tutorials/Tutorial-design.md'
     - Website: 
         - 'Website': 'Website/Website-intro.md'
 theme: 
