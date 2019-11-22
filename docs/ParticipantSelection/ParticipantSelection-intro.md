@@ -101,7 +101,7 @@ a particular applicant may or may not have had into account during the selection
 
 ### Assessing Core Values
 
-Hack weeks thrive through participants who are enthusiastic, curious collaborative and kind to others. 
+Hack weeks thrive through participants who are enthusiastic, curious, collaborative and kind to others. 
 Assessing these traits is perhaps the most difficult part of any selection procedure. In addition, 
 some hack weeks have asked questions around the contributions that participants are likely to make, 
 and about the impact that someone's participation might have on their local community. Our hack weeks 
