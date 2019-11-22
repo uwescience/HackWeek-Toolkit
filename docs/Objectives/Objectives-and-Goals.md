@@ -28,9 +28,12 @@ Ideally, an organizing committee should start with the question: *What are we tr
 From there, one can write down a set of big-picture themes that provide the basis for more specific 
 goals, as well as actions that help achieve those goals. 
 In this context, it is also helpful for organizers to discuss and settle on a set of *core values* that 
-the organizers aim to follow in their organization of the workshop. These could be values like kindness, 
+the organizers aim to follow in their organization of the workshop. 
+These values will align with the overall mission of hack weeks and will represent the specific 
+dimensions of that mission that the organizers wish to amplify, and could include values like kindness, 
 collaborativeness, and attentiveness, to name a few. The values defined in this stage might in part form 
 the basis for developing the code of conduct, and are helpful when framing facilitation strategies.
+
 
 Some hackathons have also experienced with *user stories* in order to build a narrative around goals 
 and objectives, and to identify problems and barriers for participants in achieving those goals.
