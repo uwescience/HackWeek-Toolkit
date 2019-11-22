@@ -40,10 +40,32 @@ successful.
 Because this venue sponsored rooms, coffee and biscuits, and the conference dinner, they do 
 not appear in the budget. 
 
-
-
-
-
+<table>
+<tr>
+ <td><b>Budget Item</b></td>
+ <td><b>+Funding/-Cost</b></td>
+</tr>
+<tr>
+ <td>Lorentz Center Funding</td>
+ <td>+ €6875</td>
+</tr>
+<tr>
+ <td>External grant funding </td>
+ <td>+€10000  </td>
+</tr>
+<tr>
+ <td>Hotel Refund for eight participants (€85/night)  </td>
+ <td>- €3400 </td>
+</tr>
+<tr>
+ <td>Travel refunds within Europe (€300 max; 1 person) and outside Europe (€800 max; 7 persons) </td>
+ <td>- €5900 </td>
+</tr>
+<tr>
+ <td>Lunch for 55 participants, (€11/per person per day) </td>
+ <td>-€ 3025</td>
+</tr>
+</table>
 
 ## Astro Hack Week 2019: Kavli Institute for Cosmology, Cambridge
 
