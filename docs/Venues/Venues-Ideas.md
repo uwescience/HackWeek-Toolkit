@@ -33,7 +33,9 @@ tables and chairs can be moved around and adjusted. On the same hallway is also 
 offices, and each participant is assigned a desk in a shared office for the duration of 
 the workshop. Participants used these offices for focused project work as well as break-out 
 sessions. 
-The Lorentz Center requires an application ~12-18 months in advance of the workshop and while
+The Lorentz Center requires an application ~12-18 months in advance of the workshop and is 
+available for workshops across the natural sciences, computational sciences as well as the 
+humanities and social sciences. While
 it is not stricly necessary to have a researcher based in the Netherlands on the organizing 
 committee, one mandate of the Center is for workshops to engage the Dutch research community, 
 where inclusion of a researcher based at a Dutch institution can be helpful. 
