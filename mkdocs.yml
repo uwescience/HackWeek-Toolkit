@@ -2,10 +2,17 @@ site_name: HackWeek Toolkit
 nav:
     - Home: index.md
     - About: about.md
+    - Objectives: 
+        - 'Introduction': 'Objectives/Objectives-and-Goals.md'
+    - Timeline:
+        - 'Introduction': 'Timeline/Timeline-Intro.md'    
     - Organizing Committee:
         - 'Introduction': 'OrganizingCommittee/Committee-intro.md'
         - 'Formation': 'OrganizingCommittee/Committee-formation.md'
         - 'Structure': 'OrganizingCommittee/Committee-structure.md'
+    - Budget:
+        - 'Introduction': 'Budgets/Budgets-Intro.md'
+        - 'Astrohackweek Budget': 'Budgets/AHW-Budgets.md'
     - Venues:
         - 'Introduction': 'Venues/Venues-General.md'
         - 'Examples': 'Venues/Venues-Ideas.md'
@@ -30,6 +37,8 @@ nav:
         - 'Design': 'Tutorials/Tutorial-design.md'
     - Website: 
         - 'Website': 'Website/Website-intro.md'
+    - Evaluation:
+        - 'Introduction': 'Evaluation/Evaluation-Intro.md'     
 theme: 
     name: readthedocs
     highlightjs: true
