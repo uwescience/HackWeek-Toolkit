@@ -140,35 +140,64 @@ with respect to those categories, organizers risk that the workshop itself may r
 exacerbate them if other categories of assessment (for example open-ended answers) correlate with demographic 
 categories. 
 
+There are different ways many of these questions can be phrased, and different ways that information 
+can be included in a participant selection strategy. Questions related to demographic background should 
+always be voluntary, and non-disclosure should not negatively affect someone's likelihood of being 
+accepted. Workshops that are globally advertised may run into difficulties with phrasing questions 
+around race and ethnicity, where categories may be defined differently in different countries. Hack weeks have 
+generally done one of two things: either follow US-based categorization of race and ethnicity, or formulate 
+a question that asked whether someone considered themselves a minority with respect to race and ethnicity 
+in their field of study. The former will allow for a more fine-grained selection process that takes 
+into account how different groups experience different kinds of oppression and privilege, but they may also require 
+applicants, especially those that do not identify with the US-based categorization, into a system that 
+does not correspond to their lived reality. The latter approach side-steps those cross-cultural issues, 
+but combines all participant into minority and non-minority categories, which may disproportionally 
+disadvantage some groups. In addition, recent feedback suggests that phrasing the question this way 
+might induce stereotype threat in our applicants, and thus some hack weeks are moving away from that approach.
+One potential solution might be to move away from an approach of categorization for demographic categories
+(including for example also gender identity) and simply allow applicants to self-identify using a free-form response.
 
+How should these categories---professional categories like someone's career stage or institution, and 
+demographic ones like gender identity and race and ethnicity---be included in the selection process?
+As mentioned above, they could be part of a selection where individual candidates are considered on the 
+bases of their responses as well as the information disclosed in this section of the application form
+(if it was disclosed). Career stage, location and demographic categories could in this scenario inform 
+selection by providing information about the applicant's opportunities, and the privilege or oppression
+they may have experienced in the field.
 
-Because no procedure, no matter how well designed, will be entirely bias-free and a hundred percent 
-predictive, ranking participants and admitting according to ranking is unlikely to produce a balanced 
-and unbiased cohort. It may be more advisable to set a reasonable cut-off score of some form (for example, 
-all participants that are acceptable must at least have been given a score of 3 out of five by all 
-reviewers), and then select within that set of acceptable candidates according to other criteria important 
-to the workshop (for example, as mentioned in the example above, the mix of career stage).
-It may make sense to pre-select a subset of participants at this stage that all reviewers strongly agree on,
-but again we recommend against selecting *all* participants this way. 
+Some of the hack weeks, motivated by the idea of diversifying the workshop across many of these 
+categories, have used a selection process mediated by an algorithm (implemented in the software 
+[Entrofy]()) to support the selection. In this approach, the committee will generally perform 
+some pre-selection based on the open-ended answers, personal statements and recommendation letters
+to identify a subset of qualified candidates. 
+The final cohort is selected using the algorithm, where the objective is to have the cohort 
+globally match a set of target values across all categories. Astro Hack Week and Geo Hack Week have 
+both implemented procedures that followed this model. It is worth nothing here that **the use 
+of an algorithm does not make the selection intrinsically less biased**. Categories, the allowed 
+values within each category, and the target values are all chosen by humans, most likely the organizers, 
+and are thus subject to the biases these humans impose during creation of the application form or 
+the subsequent selection on open-ended answers. As Meredith Broussard states in her book 
+["Artificial Unintelligence"](), algorithms are social constructs, because they are constructed by humans.
+Using algorithmic mediation in selection processes does not absolve organizers of critical 
+interrogation of their procedures and the biases they might impose on it, however unintentionally. 
 
-A tool that we have successfully used in our hack weeks for the latter step--selection of the cohort 
-out of a set of acceptable candidates, subject to multiple constraints--is called [Entrofy](). 
-The accompanying notebook shows an example procedure for cohort selection, using a simulated data 
-set. Organizers are encouraged to adapt this notebook to their own needs.
+One advantage of the approach employing Entrofy is that it allows for more straightforward transparency and 
+accountability than more traditional approaches might. Organizers can (and do so in practice) share 
+the details of the selection procedure, categories and targets used, and often the code employed for 
+selection (after removal of all confidential participant data). However, the structure of the algorithm 
+requires that applicants can fit themselves into pre-defined categories, which may be difficult given the
+aforementioned problems when categories are intrinsically ill-defined or not inclusive. 
+ 
+The hack weeks are continuously iterating and changing our approach with the aim to make our selection 
+procedures more equitable and fair, and we share information and experiences among one another to learn 
+from our different events. However, none of us feel that we have a single set of best practices to share 
+that would guarantee and equitable selection. Our best advice is:
 
-
-### General Questions
-
-* name
-* e-mail address (don't forget this! you need to contact your candidates somehow!)
-* institution
-
-### Questions Probing Motivation and 
-
-
-### Demographic Questions
-
-
+* Be critical of your selection procedures, and continuously evaluate, solicit feedback and continue learning around the issues that make selection difficult and fraught with biases
+* Educate yourself on the biases that typically appear in selection procedures: the branch of industrial and organization psychology has both in-depth scientific works as well as popular science-level introductions to offer that may be helpful, and more and more organizations share their hiring procedures and their thinking around how to approach difficult issues within hiring.
+* Be as transparent and accountable as possible. Admitting participants for an oversubscribed workshop necessarily means that others will be turned away. In a space like academia where rejection is relatively common, receiving that notice from a workshop might lead to self-doubt. It is always useful to share the thinking behind the selection, the procedures and the general outcomes. In addition, as organizing committees we are aware that our knowledge around issues of equity and inclusion is incomplete and fraught with our own biases that we bring into this space. Transparency enables critical feedback from the community, which in turn enables improvement
+* Protect your participants' data. During the application process, participants may share sensitive data with the organizers, who are therefore obliged to keep that information confidential and protected from exploitation through internal or outside actors. 
+ 
 
 
 
