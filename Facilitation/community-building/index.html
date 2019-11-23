@@ -1,351 +1,134 @@
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   
-  <link rel="shortcut icon" href="../../img/favicon.ico">
-  <title>Setting the Stage - HackWeek Toolkit</title>
-  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="shortcut icon" href="../../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Setting the Stage - HackWeek Toolkit</title>
+    <link href="../../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/highlight.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
 
-  <link rel="stylesheet" href="../../css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="../../css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-  
-  <script>
-    // Current page data
-    var mkdocs_page_name = "Setting the Stage";
-    var mkdocs_page_input_path = "Facilitation/community-building.md";
-    var mkdocs_page_url = null;
-  </script>
-  
-  <script src="../../js/jquery-2.1.1.min.js" defer></script>
-  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script> 
-  
+    <script src="../../js/jquery-3.2.1.min.js"></script>
+    <script src="../../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '../..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Community Building", url: "#_top", children: [
+              {title: "Icebreaker", url: "#icebreaker" },
+              {title: "Creating a Welcoming Learning Community", url: "#creating-a-welcoming-learning-community" },
+          ]},
+        ];
+
+    </script>
+    <script src="../../js/base.js"></script> 
 </head>
 
-<body class="wy-body-for-nav" role="document">
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
 
-  <div class="wy-grid-for-nav">
 
-    
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
-      <div class="wy-side-nav-search">
-        <a href="../.." class="icon icon-home"> HackWeek Toolkit</a>
-        <div role="search">
-  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
-  </form>
-</div>
-      </div>
 
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-	<ul class="current">
-	  
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../..">Home</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../../about/">About</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Objectives</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Objectives/Objectives-and-Goals/">Introduction</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Timeline</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Timeline/Timeline-Intro/">Introduction</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Organizing Committee</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../OrganizingCommittee/Committee-intro/">Introduction</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../OrganizingCommittee/Committee-formation/">Formation</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../OrganizingCommittee/Committee-structure/">Structure</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Budget</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Budgets/Budgets-Intro/">Introduction</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../Budgets/AHW-Budgets/">Astrohackweek Budget</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Venues</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Venues/Venues-General/">Introduction</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../Venues/Venues-Ideas/">Examples</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Participant Selection</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../ParticipantSelection/ParticipantSelection-intro/">Introduction</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Facilitation</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../Facilitation-intro/">Introduction</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../event-introduction/">Opening the Event</a>
-                </li>
-                <li class=" current">
-                    
-    <a class="current" href="./">Setting the Stage</a>
-    <ul class="subnav">
-            
-    <li class="toctree-l3"><a href="#community-building">Community Building</a></li>
-    
-        <ul>
-        
-            <li><a class="toctree-l4" href="#icebreaker">Icebreaker</a></li>
-        
-            <li><a class="toctree-l4" href="#creating-a-welcoming-learning-community">Creating a Welcoming Learning Community</a></li>
-        
-        </ul>
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
     
 
-    </ul>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../pitching-hacks/">Pitching Hacks/Projects</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../checking-in/">Checking In</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../mediating-conflict/">Mediating Conflict</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../wrap-up/">Wrapping Up</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../AHW-Facilitation/">Astrohackweek Facilitation</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../GHW-facilitation/">Geohackweek Facilitation</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../Future-experiments/">Future Experiments</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Hacking</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Hacking/Hacks-Intro/">Introduction</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../Hacking/AHW-Hack-Template/">Astro Hack Week Template</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Tutorials</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Tutorials/Tutorials-intro/">Introduction</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../Tutorials/Tutorial-design/">Design</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Website</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Website/Website-intro/">Website</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Evaluation</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Evaluation/Evaluation-Intro/">Introduction</a>
-                </li>
-    </ul>
-	    </li>
-          
-        </ul>
-      </div>
-      &nbsp;
-    </nav>
-
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-
-      
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
-        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="../..">HackWeek Toolkit</a>
-      </nav>
-
-      
-      <div class="wy-nav-content">
-        <div class="rst-content">
-          <div role="navigation" aria-label="breadcrumbs navigation">
-  <ul class="wy-breadcrumbs">
-    <li><a href="../..">Docs</a> &raquo;</li>
+    
     
       
-        
-          <li>Facilitation &raquo;</li>
-        
-      
     
-    <li>Setting the Stage</li>
-    <li class="wy-breadcrumbs-aside">
-      
-        <a href="https://github.com/uwescience/HackWeek-Toolkit/edit/master/docs/Facilitation/community-building.md"
-          class="icon icon-github"> Edit on GitHub</a>
-      
-    </li>
-  </ul>
-  <hr/>
-</div>
-          <div role="main">
-            <div class="section">
-              
-                <h1 id="community-building">Community Building</h1>
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../pitching-hacks/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../pitching-hacks/" class="btn btn-xs btn-link">
+        Pitching Hacks/Projects
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../event-introduction/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../event-introduction/" class="btn btn-xs btn-link">
+        Opening the Event
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h1 id="community-building">Community Building</h1>
 <p>A core goal of our events is to build a community of practice around principles of data sharing, open source code development and the free exchange of scientific ideas. Relationship between participants help to build and sustain such a community, and this requires ample opportunities for exchanges with others, especially people we might not have met. We therefore encourage early interactions between participants and seek to keep those exchanges flowing throughout the duration of the event.</p>
 <h2 id="icebreaker">Icebreaker</h2>
 <p>A well designed icebreaker can help participants explore connections with people they do not yet know, and get people thinking creatively about what they hope to accomplish during the event. Good icebreakers create a hospitable space for connection and conversation, while poorly conecived icebreakers put people on the spot and create a stressful social interaction, which should be avoided this early in the event. As with all facilitated activities, participants should be made aware that their involvement is by invitation and is not a required component of the event.</p>
 <h2 id="creating-a-welcoming-learning-community">Creating a Welcoming Learning Community</h2>
 <p>Whereas the code of conduct provides a list of rules describing activities that must be avoided, this section focuses on ways the group can actively create a postive learning community. We begin this section with a brief introduction to the conecpt of <a href="https://geohackweek.github.io/wiki/learning_community.html">learning communities</a>, and then talk about the behaviors that have been shown to foster the development of such communities.</p>
-              
-            </div>
-          </div>
-          <footer>
-  
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+
+  <br>
+    
+
+    
+    
       
-        <a href="../pitching-hacks/" class="btn btn-neutral float-right" title="Pitching Hacks/Projects">Next <span class="icon icon-circle-arrow-right"></span></a>
-      
-      
-        <a href="../event-introduction/" class="btn btn-neutral" title="Opening the Event"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../pitching-hacks/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../pitching-hacks/" class="btn btn-xs btn-link">
+        Pitching Hacks/Projects
+      </a>
     </div>
-  
-
-  <hr/>
-
-  <div role="contentinfo">
-    <!-- Copyright etc -->
+    
+    <div class="wm-article-nav">
+      <a href="../event-introduction/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../event-introduction/" class="btn btn-xs btn-link">
+        Opening the Event
+      </a>
+    </div>
     
   </div>
 
-  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
-</footer>
-      
-        </div>
-      </div>
-
-    </section>
-
-  </div>
-
-  <div class="rst-versions" role="note" style="cursor: pointer">
-    <span class="rst-current-version" data-toggle="rst-current-version">
-      
-          <a href="https://github.com/uwescience/HackWeek-Toolkit/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
-      
-      
-        <span><a href="../event-introduction/" style="color: #fcfcfc;">&laquo; Previous</a></span>
-      
-      
-        <span style="margin-left: 15px"><a href="../pitching-hacks/" style="color: #fcfcfc">Next &raquo;</a></span>
-      
-    </span>
+    <br>
 </div>
-    <script>var base_url = '../..';</script>
-    <script src="../../js/theme.js" defer></script>
-      <script src="../../search/main.js" defer></script>
+
+<footer class="col-md-12 wm-page-content">
+      <p>
+        <a href="https://github.com/uwescience/HackWeek-Toolkit/edit/master/docs/Facilitation/community-building.md"><i class="fa fa-github"></i>
+Edit on GitHub</a>
+      </p>
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
 
 </body>
 </html>
