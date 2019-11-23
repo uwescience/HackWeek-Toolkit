@@ -40,7 +40,7 @@ nav:
     - Evaluation:
         - 'Introduction': 'Evaluation/Evaluation-Intro.md'     
 theme: 
-    name: readthedocs
+    name: windmill
     highlightjs: true
 plugins:
     - search
