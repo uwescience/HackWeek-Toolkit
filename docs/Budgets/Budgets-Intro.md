@@ -1,11 +1,9 @@
-# Budgeting & Funding A Hack Week
+# Budgeting and Funding A Hack Week
 
-Like any other workshop, hack weeks cost money. This includes direct costs such as rooms and catering,
-as well as indirect costs including the salaries of the organizing committee.
+Like any other workshop, hack weeks cost money. This includes direct costs such as rooms and catering, as well as indirect costs including the salaries of the organizing committee.
 
 Below, we have an abbreviated list of costs that commonly occur during a hack week. In this folder, 
-you can also find detailed budgets from individual hack weeks, which might give you a closer guidance 
-on how to budget your own event.
+you can also find detailed budgets from individual hack weeks, which might give you a closer guidance on how to budget your own event.
 
 ## Common Budget Items
 
@@ -30,5 +28,14 @@ specific grants to support the hack week.
 
 ## Fundraising for a Hack Week
 
+Here are some of the sources of funding we have relied on in past events:
 
+* early hack weeks at the University of Washington were supported by the [Moore-Sloan Data Science Envrionments] (http://msdse.org/)
+* various department across university systems (e.g. Applied Mathematics, Information Technology, Computer Science)
+* federal research grants from the National Institutes of Health, the National Sceience Foundation, NASA and other agencies. 
+* industry sponsorship from a wide range of companies such as commercial cloud and commercial satellite providers
+* participant fees
 
+## Charging Participant Fees
+
+Organizers should first determine whether charging a fee is allowed under the rules of any federal awards that might be supporting the event. If fees are allowed, then organizers may wish to charge a small participant fee for hack weeks helps ensure that people who sign up commit to attending. In the past we have charged betwee $75 - $100 which we feel is low enough not to deter people without sufficient funds from even applying. If budgets allow we often waive participant fees for people expressing financial need. 
