@@ -42,6 +42,7 @@ for example what such a participant might tell their colleague or supervisor aft
 Our hack weeks have never implemented this approach, but some are considering it for future iterations.
 
 For Astro Hack Week, the goals generally include:
+
 * improve the data science literacy within the astronomy community
 * build a cohort of like-minded researchers and allow them to build a community
 * improve the representation of researchers from minority backgrounds within the astronomy and data science communities
