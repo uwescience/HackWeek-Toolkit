@@ -11,7 +11,7 @@
   <col width="80">
 <tbody>
 
-<tr>
+<tr bgcolor="#cacfd2">
     <th>Time</th>
     <th>Item</th>
     <th>Goal</th>
@@ -90,6 +90,74 @@ You might be wondering, what is a hackweek? Some brief history:
         <li> Next we will discuss our shared principles and code of conduct that are the foundation of creating this learning community
     </ul>
 </td>
+
+<tr>
+    <td> 8:50 - 8:55 <p> (5 min)</td>
+    <td> Norms of Behavior: explained</td>
+    <td>Set the parameters of our learning community and develop a set of shared principles about how we intend to show up this week.</td>
+    <td>Presentation</td>
+    <td>Distribute norms of behavior handout. Instructors alternate reading through each one.</td>
+    <td>Shay</td> 
+</tr>
+
+<tr>
+    <td> 8:55 - 9:15 <p> (10 min)</td>
+    <td> Norms of Behavior: integration</td>
+    <td>Invite participants to actively engage with the norms of behavior</td>
+    <td>Partner share</td>
+    <td>
+    <p>4 minutes: turn to your partner: “which of these norms most resonates for you?”
+    <p>4 minutes: turn to a different partner: “Which of these norms is most challenging to you?”
+    </td>
+    <td>Shay and Anthony</td> 
+</tr>
+
+
+<tr>
+    <td> 9:15 - 9:20 <p> (5 min)</td>
+    <td> reminder about peer-learning</td>
+    <td></td>
+    <td>Presentation</td>
+    <td></td>
+    <td>Joe</td> 
+</tr>
+
+<td colspan=6>
+    <ul>
+        <li> As we transition into our first tutorial, let’s return to one of the core missions of our hackweek: peer learning
+        <li> One very unique component of hackweeks is that we intentionally maximize diversity in who we accept to the program. That includes disciplinary diversity. Folks in this room come from a wide variety of fields, each with their own technological tools and vocabularies.
+        <li> Therefore,everyone approaches these tutorials with their own particular combination of disciplinary and data science knowledge. Material could be overwhelmingly new, or in some cases you may have already mastered it in your own training. Most people will reside somewhere in the middle of that spectrum. 
+        <li> We therefore encourage you to help each other along in your learning journey. If you already have some material mastered, this could be an opportunity for you to teach others in the room who may not have encountered this material yet.  
+    </ul>
+</td>
+
+<tr>
+    <td> 9:20 - 10:30 </td>
+    <td> Tutorial</td>
+    <td>Missing Maps</td>
+    <td>Tutorial</td>
+    <td></td>
+    <td>Chase</td> 
+</tr>
+
+<tr>
+    <td>10:30 - 11:00</td>
+    <td colspan = 5> Coffee Break (30 min) </td>
+</tr>
+
+<tr>
+    <td> 11:00 - 12:00 </td>
+    <td> Tutorial</td>
+    <td>Git and GitHub</td>
+    <td>Tutorial</td>
+    <td></td>
+    <td>Ben</td> 
+</tr>
+
+<tr>
+    <td>12:00 - 1:00 </td>
+    <td colspan = 5> Lunch (60 min)</td>
+</tr>
 
 </tbody>
 </table>
