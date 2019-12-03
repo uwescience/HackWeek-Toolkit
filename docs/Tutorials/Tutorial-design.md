@@ -7,9 +7,9 @@ A purpose of a hack week is to expose participants to a broad range of data scie
 * Consider how you would like to balance teaching of core concepts versus the technical aspects of operating a specific tool or library. Be mindful of spending too much time on a tool you might have just discovered that represents the latest and greatest, but might not be something the community decides to adopt in the long term. 
 * Include content that provides an initial picture of what might be possible when applying a particular data science tool. Save detailed explanations on a narrow topic for a later breakout session.
 * Start with simple explanations that attend to people who are seeing this content for the first time, *and* keep advanced participants engaged by inviting them to assist others,  explore more advanced concepts through individual study, and engage in constructive questioning with the tutorial lead to further clarify concepts for beginners. 
-* Make your tutorials interactive through live coding challenges, working through a Juypter Notebook together, or interactive discussions. Leave some space when you are not talking for people to work through examples and ask questions. 
+* Make your tutorials interactive through live coding challenges, working through a Jupyter Notebook together, or interactive discussions. Leave some space when you are not talking for people to work through examples and ask questions. 
 * give a lot of thought to the pacing of the tutorial, considering how much time participants will need for various tasks. Tutorials that are too fast will cause undue stress and people will be unable to finish everything in time.
-* take a bit of time to review tutorials offered at our previous hackweeks. [Here](https://www.youtube.com/watch?v=VMJ1ZO48cwU) is an example of a particularly well-crafted tutorial by Catherine Kuhn at the 2018 Geo Hack Week.
+* take a bit of time to review tutorials offered at our previous hackweeks, for example this [well-crafted tutorial by Catherine Kuhn](https://www.youtube.com/watch?v=VMJ1ZO48cwU) from the 2018 Geo Hack Week.
 
 ## Tutorial Timeline
 
