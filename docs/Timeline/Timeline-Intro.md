@@ -1,6 +1,6 @@
 # Timeline and Checklist for Hack Weeks
 
-This is a very briefly worded checklist for organizers of hack weeks, based on the supplementary materials of the [hack weeks paper](http://www.pnas.org/content/early/2018/08/17/1717196115)
+This is a brief checklist for organizers of hack weeks, based on the supplementary materials of the [hack weeks paper](http://www.pnas.org/content/early/2018/08/17/1717196115)
 
 These are suggestions that we’ve found helpful in the past. Feel free to adapt and change according to your needs!
 
@@ -14,8 +14,8 @@ These are suggestions that we’ve found helpful in the past. Feel free to adapt
    a. Define all roles
    b. Build a roadmap for completion of tasks
    c. Assign tasks to team members
-4. Establish rules for working together (e.g. a code of conduct among the committee)  
-5. Settle on team communication (asynchronous communication via slack/e-mail? Regular online calls?)
+5. Establish rules for working together (e.g. a code of conduct among the committee)  
+6. Settle on team communication (asynchronous communication via slack/e-mail? Regular online calls?)
 
 ### Objectives
 1. **Figure out your motivation** for organizing a hack week. What drives the need for a hack week?
@@ -32,24 +32,25 @@ These are suggestions that we’ve found helpful in the past. Feel free to adapt
 1. Determine country/city for your hack week
    a. Are there visa requirements for the country?
    b. How easy/difficult is it to travel to/from this location?
-   c. Is the country the location is in restrictive in any way or unsafe for certain participants (e.g. participants of colour, LGBT participants, participants from certain countries, …)
+   c. Is the country the location is in restrictive in any way or unsafe for certain participants (e.g. participants of color, LGBTQ participants, participants from certain countries)
    d. What is accommodation like in this country/city?
    e. How good is the public transport in the chosen location?
    f. How expensive are travel + accommodation + food in the proposed location? Is this financially accessible to students and participants from institutions with less funding? 
    g. What is the environment like with respect to your field? Is there a significant local presence (might not be important, but could be!)
    h. Is there something for participants to do outside of the hack week (may be a plus or minus, depending on whether you want participants to work together all the time)
-   i. What is available in terms of families, child support, … ?
+   i. What is available in terms of families, child support, etc.?
    j. Is the location known to have tech industry? This may only matter if you’re interested in connecting with local companies and/or ask them for funding.
 2. Venue: Considerations for facilitating hacking
    a. What are the venue’s costs? Is there local funding available that might come with the venue?
-   b. How large is the room? Probably want a room that’s at least ⅓ larger than technically needed for the number of people (so a hack week with 50 people should be in a room advertised for 65 or so)
-   c. Are there separate rooms, or one big one? Separate rooms might facilitate break-outs, but make it harder to keep the group together and allow for work across projects
-   d. What is the set-up for the room? Lecture theatre-style or tables? Theatre-stype is terrible for collaboration, so try not to spend (too much) time in a lecture theatre
-   e. Are components of the room moveable and can chairs/tables be reconfigured? Reconfiguring helps with flexible group formation and interactive work.
-   f. How many white boards/chalk boards are there? Depending on group size, probably want more than 3
-   g. How many projectors are there? You need at least 1 that’s visible from the entire room.
-   h. Power outlets! Need lots of them
-   i. Internet: high-speed internet is crucial for many data-related tasks
+   b. Are there any location-specific events going on around the venue during that time that might interfere with travel or the hackweek itself?
+   c. How large is the room? Probably want a room that’s at least one-third larger than technically needed for the number of people (so a hack week with 50 people should be in a room advertised for 65 or so)
+   d. Are there separate rooms, or one big one? Separate rooms might facilitate break-outs, but make it harder to keep the group together and allow for work across projects
+   e. What is the set-up for the room? Lecture theatre-style or tables? Theatre-stype is terrible for collaboration, so try not to spend (too much) time in a lecture theatre
+   f. Are components of the room moveable and can chairs/tables be reconfigured? Reconfiguring helps with flexible group formation and interactive work.
+   g. How many white boards/chalk boards are there? Depending on group size, probably want more than 3
+   h. How many projectors are there? You need at least 1 that’s visible from the entire room.
+   i. Power outlets! Need lots of them
+   j. Internet: high-speed internet is crucial for many data-related tasks
 3. Venue: General Considerations
    a. Does the venue require an application (e.g. the Lorentz Centre)? If so, check application procedures + deadlines >1 year in advance!
    b. Is the space accessible? Can people with physical disabilities move freely (e.g. participants with wheelchairs, blind participants, …)? Are there elevators or only stairs? 
@@ -57,7 +58,7 @@ These are suggestions that we’ve found helpful in the past. Feel free to adapt
 Is there administrative support in terms of practical organization (e.g. handling reimbursement claims, ordering lunch/coffee/rooms, assisting with accommodation, ...)? This can be a huge help to the SOC!
    d. How far away is the venue from available accommodation?
    e. Is there coffee/tea?
-   f. Advertise location/venue as soon as possible once you know the dates and location (e.g. via the AAS Astrostatistics Working Group, this list of astronomy meetings, the Astrostatistics + Astroinformatics Portal, e-mail lists, local universities, everyone you know, …)
+   f. Advertise location/venue as soon as possible once you know the dates and location (e.g. via the AAS Astrostatistics Working Group, this list of astronomy meetings, the Astrostatistics + Astroinformatics Portal, e-mail lists, local universities, everyone you know)
 
 ### Funding
 1. A hack week requires funding for a number of different costs: rooms (not always), lunch, coffee, travel funding for some of the participants, potentially salaries for organizers and especially administrative staff, and of course some incidentals.
@@ -70,8 +71,13 @@ Is there administrative support in terms of practical organization (e.g. handlin
 8. How does your funding from different sources match up with different funding needs (sometimes, funding sources come with conditions for what can/cannot be funded)?
 9. How much are you likely to charge for registration? Charging a small amount for registration helps participants buy into coming (people are more likely to attend if they’ve put down money for it), but charging a large amount will make the meeting inaccessible
 10. Check how to collect registration fees! In most countries, this may require an entity that can deal with the tax implications of having people give you money! If at all possible, try to convince the hosting venue or your university to deal with this!
+11. Is there a designated fiscal person who can handle travel grant distributions and handling travel arrangement for any out of town instructors? Maybe this person could be added to the organizing committee as well. 
 
 ## About 1 year to 6 months in advance
+
+### Venue
+
+Identify and book (at minimum, place a hold on) a venue that best meets your hackweek’s needs. This is crucial to avoid scrambling for a space close to the event. It is also often a challenge finding a venue that is available for back-to-back days of the hackweek.  
 
 ### Website
 1. **Prepare a Website**: this should be done early on, definitely as soon as the hack week is announced.
@@ -88,8 +94,10 @@ Is there administrative support in terms of practical organization (e.g. handlin
 
 ### Announce the event
 1. Where are typical venues for announcing events in your community?
-2. Prepare e-mail to colleagues + mailing list
+2. Prepare e-mail to colleagues and mailing lists. In announcement emails, provide info on what a hackweek is, what your hackweek aims are, what skills and experiences participants can expect to gain, the application deadline, and an email contact for any questions.
 3. Reach out to communities traditionally underserved in your field (e.g. community colleges, minority working groups within your professional societies)
+4. To make your hackweek announcements more eye-catching, include photos from previous/other hackweeks that encapsulate what a hackweek is. Photos of group work and instructors teaching software programs work wonderfully. Aim to keep announcements brief, while linking to your website that will include the application form and more detailed information. Additional info that can be included in the announcement include positive testimonials from past participants. 
+5. In announcement emails, provide info on what a hackweek is, what your hackweek aims are, what skills and experiences participants can expect to gain, the application deadline, and an email contact for any questions.
 
 ### Participant Selection
 **Important note**: This is one of the most important parts of preparing the workshop, so it deserves ample time and consideration. Be aware that there are systematic biases likely present in every part of this! E.g. participants from certain backgrounds might have had fewer opportunities to learn certain skills (like coding), so requiring a certain amount of coding skills might disadvantage certain groups inadvertently! If you require things like motivational statements and/or letters of reference, be aware of biases in recommendation letters, and things like biases related to English language ability. Fundamentally, be aware that there might be biases in the process, and work to mitigate those biases wherever you can!
@@ -99,12 +107,12 @@ Is there administrative support in terms of practical organization (e.g. handlin
 1. Have a detailed conversation about what the ideal mix of participants is: 
    a. Are there prerequisites for attending the workshop (e.g. a minimum level of coding ability)? 
    b. Are there particular groups that are targeted by the workshop?
-2. What are possible axes of selection (e.g. motivation to attend, career stage, geographic origin, skills in a certain subject, demographic variables like gender identity, race, ethnicity, …)? 
+2. What are possible axes of selection (e.g. motivation to attend, career stage, geographic origin, skills in a certain subject, demographic variables like gender identity, race, ethnicity, etc.)? 
    a. Should there be a selection for merit?
 3. Think about ways to assess the categories of selection carefully. Any category for selection needs to be translated into some question or application material that can be provided by participants (e.g. CV? Statement of purpose? Letters of recommendation?)
    a. What are local rules  and laws (university/country) around asking about demographic variables? (note that asking participants to disclose personal demographic information should always be voluntary!)
-   b. Asking participants to self-assess skill levels is difficult and fraught with biases. If you ask people whether they’re an “expert”, “intermediate” or “beginner” at a certain skill, it’s hard to figure out what “expert” means for any given person. Try to tie categories to explicit milestones (e.g. “I have edited a python script written by others”, “I have written my own Python script”, “I maintain several open-source packages”, …)
-4. Set up an application form: need to figure out what the best way to collect data is (e.g. a google form, …); be aware if there are local/institutional rules about data collection
+   b. Asking participants to self-assess skill levels is difficult and fraught with biases. If you ask people whether they’re an “expert”, “intermediate” or “beginner” at a certain skill, it’s hard to figure out what “expert” means for any given person. Try to tie categories to explicit milestones (e.g. “I have edited a python script written by others”, “I have written my own Python script”, “I maintain several open-source packages”)
+4. Set up an application form: need to figure out what the best way to collect data is (e.g. a google form); be aware if there are local/institutional rules about data collection
 5. Open form + advertise workshop + application (~10 months ahead of time, leave open for at least 8 weeks!)
    a. During this time, make sure that the registration procedure/form is set up and that funding is in place: **funding must be in place by the time participants are being accepted!**
    b. Make sure there is a back-up (ideally several back-ups) for your collected participant data. If you lose it, it’s gone and you’re in trouble!
@@ -116,7 +124,6 @@ Is there administrative support in terms of practical organization (e.g. handlin
 8. Notify participants of selection, give them a timeline for responding (especially if the workshop is oversubscribed, you might want to give them ~2 weeks so that you can rapidly admit alternative participants for those that drop out)
 9. Iterate as participants decline/accept + run registration for those that accept
 10. Assign funding, make sure the reimbursement procedure is clear (are people reimbursed and how? Or is the venue booking for the participants?), and inform participants how their travel/childcare expenses will be reimbursed
-
 
 ## 6 months before the workshop
 
@@ -137,8 +144,10 @@ Set up the infrastructure for the tutorials, break-outs, hacking, and other acti
    e. Set up ways for participants to communicate and coordinate online (and for outside researchers to connect): e.g. Slack
    f. Twitter hashtag?
 3. Potentially set up a shared software environment for participants. If the hack week tutorials involve a lot of coding in one language, it can be helpful to set up a shared environment (e.g. vial JupyterHub or Docker) for all participants to use, in order to minimize installation issues.
-4. Send welcome e-mail to participants with important information about the workshop, the Code of Conduct, travel arrangements etc. It is also useful to encourage them at this point to start adding ideas for hacks and break-outs in the respective documents.
+4. Send welcome e-mail to participants with important information about the workshop, the Code of Conduct, travel arrangements etc. It is also useful to encourage them at this point to start adding ideas for hacks and break-outs in the respective documents. After creating an email, designate the logistics coordinator to send out and answer all communications needed through it. They can answer general questions and forward more complex/specific inquiries to appropriate members of the team. 
+Also, set a deadline for accepted applicants to move over to the main messaging platform that you will be using during your hackweek. One way to get all participants to join the messaging platform in a timely matter is by giving them a deadline to message the logistics coordinator their github username to be given access to needed hackweek materials.  
 5. Set up a basic evaluation survey. Set up questions on parts of the hack week you want to receive feedback on. Ideally do this before the hack week, otherwise this might cause some stress during the week itself!
+6. The logistics coordinator should prepare check-in materials for the hackweek welcome table. This can include a roster of all participants and instructors, nametags, media release forms (if taking photos to be used for any purpose afterwards) and means for purchasing food if your hackweek is supplying any meals. Designate one coordinator to act as the main point-of-contact for all logistical questions concerning the event like meal cards, overseeing any catering and coffee set up, contacting the venue for any technological/access issues, providing assistance with figuring out travel, etc. This person should also develop a schedule of the entire event for keeping track of logistical needs at different times of throughout the event and how they will be taken care of. This will include transporting daily or time-specific supplies to and from the event. This person can also assess the venue and fill in any needs that are missing such as audio equipment, replacement batteries for microphones, and office supplies. 
 
 ## During the Hack Week
 
