@@ -59,6 +59,7 @@ To summarize, some relevant characteristics to check upon are:
 * Ease and expense of obtaining accommodation
 * Ease of communication for participants who do not speak the local language
 * Accessibility of the chosen location (for example, are the majority of buildings accessible to participants with mobility aids? Are braille signs widely available?)
+* is the chosen venue within walking distance from the main dining locations recommended by the hackweek? The venue should also be in walking distance from where most out of town participants will be lodging. 
 * Is public transport, wide-spread, frequent, reliable and accessible?
 
 We have so far not found a single location that agrees with all of those points. For recurring events, 
@@ -69,7 +70,6 @@ different parts of the world, linked through e.g. dedicated video chatrooms, asy
 and other technological means. Especially for heavily oversubscribed workshops, this might allow a wider range 
 of people to participate in these events. As of now, none of the hack weeks has tried this, though some 
 (especially Astro Hack Week) are considering this model. 
-
  
 ## Characteristics of the ideal Hack Week Venue
 
@@ -146,7 +146,7 @@ To summarize, here are some general considerations for the hack week venue:
 * Is there a system in place for displaying slides and tutorials, and is the screen visible from everywhere in the room?
 * Are there separate rooms where teams can withdraw for focused work? 
 * Can one of those rooms be designated as a room for quiet time, to allow participants to temporarily withdraw from the controlled chaos of the hack week?
-* Does the venue allow food and drink either within the rooms or in close proximity?
+* Does the venue allow food and drink either within the rooms or in close proximity? If there will be catering coming and going during the event, see if there is an area in the back or just outside the main tutorial space where the coffee and/or foods can be set up without distracting participants and disrupting the tutorial. If your hackweek is in a public space such as a library, try to avoid having the foods set up where non-participants can have access.   
 
 
 
