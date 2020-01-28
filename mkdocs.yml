@@ -12,6 +12,7 @@ nav:
         - 'Structure': 'OrganizingCommittee/Committee-structure.md'
     - Budget:
         - 'Introduction': 'Budgets/Budgets-Intro.md'
+        - 'Budget Template': 'Budgets/Budget-template.md'
         - 'Astrohackweek Budget': 'Budgets/AHW-Budgets.md'
     - Venues:
         - 'Introduction': 'Venues/Venues-General.md'
