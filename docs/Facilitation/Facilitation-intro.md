@@ -11,7 +11,7 @@ Some of the core capabilities of a good facilitator include:
 * an awareness of the diversity of individual, social and cultural backgrounds present in the room
 * a capacity to lean-in to difficult conversations
 * an ability to hold multiple perspectives on a given topic
-* a willingness to accpet non-closure on a difficult issue
+* a willingness to accept non-closure on a difficult issue
 * a good sense of humor!
 
 ## The Importance of Invitations
