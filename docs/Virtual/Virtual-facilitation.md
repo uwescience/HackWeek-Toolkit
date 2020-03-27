@@ -1,10 +1,10 @@
 # Virtual Facilitation 
 
-In this document we have described a multitude of ways to [facilitate hackweeks](../../Facilitation/Facilitation-intro). Some of these approaches can be applied in a virtual setting:
+Elsewhere in this documentation we have described a multitude of ways to [facilitate hackweeks](../../Facilitation/Facilitation-intro). Some of these approaches can be applied in a virtual setting:
 
 ## [Virtual Liberating Structures](http://www.liberatingstructures.com/)
 
-* **[Impromptu Networking](http://www.liberatingstructures.com/2-impromptu-networking/)** is a structure that helps individuals get clear on ideas through brief, one-on-one discussions with several people in the room. This structure can be implemented using Zoom breakout rooms, letting Zoom randomly assign people into small groups.
+* **[Impromptu Networking](http://www.liberatingstructures.com/2-impromptu-networking/)** is a structure that helps individuals discuss new ideas through brief, one-on-one discussions with several people in the room. This structure can be implemented using Zoom breakout rooms, letting Zoom randomly assign people into pairs.
 
 * **[1-2-4-All](http://www.liberatingstructures.com/1-1-2-4-all/)** helps unleash new ideas and provides low-stress ways for individuals to have their ideas heard. This can also be achieved with Zoom breakout rooms.
 
