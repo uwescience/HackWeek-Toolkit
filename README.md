@@ -38,3 +38,7 @@ and experiences so that we and others can learn from you!
 * To publish to GitHub: ```mkdocs gh-deploy```
 * This uses the markdown extensions [admonition](https://squidfunk.github.io/mkdocs-material/extensions/admonition/) and the markdown plugin [markdownextradata](https://github.com/rosscdh/mkdocs-markdownextradata-plugin/)
 * edit the mkdocs.yml file to customize the hackweek name and website to your particular event
+
+### License
+
+This repository is licensed under the terms of the Creative Commons Attribution 4.0 International license, unless otherwise specified.
