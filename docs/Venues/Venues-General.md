@@ -53,6 +53,7 @@ For example, organizing a hack week in a country with anti-LBTQ laws excludes th
 from the start.
 
 To summarize, some relevant characteristics to check upon are:
+
 * Ease of obtaining travel visas + entry to the country at the border
 * Ease and expense of travel to/from location
 * Is the chosen venue safe for all participants, especially those belonging to minority groups?
