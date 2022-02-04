@@ -39,7 +39,7 @@ Similarly, organizers should articulate a strategy for assessing whether candida
 skill level and are likely to participate in a way that creates a welcoming community for the group 
 as a whole. This is generally a hard problem: research from the hiring literature suggests that there 
 is an irreducible variance when trying to predict future performance from applications and intervies 
-(see e.g. [Highhouse, 2008]()). This is also the place where unconscious biases are most likely to creep 
+(see e.g. [Highhouse, 2008](https://www.sciencedirect.com/science/article/abs/pii/S1053482297900292?via%3Dihub)). This is also the place where unconscious biases are most likely to creep 
 into the process. Our best advice is to think critically about the selection process, ensure that all 
 committee members are aware of common unconscious biases and are reminded of them throughout the selection 
 process, and to evaluate and re-evaluate every part of the selection process before, during and after 
@@ -109,7 +109,7 @@ have assessed these values and traits through a range of different methods, incl
 questions on the application form, personal statements and recommendation letters.
 As mentioned above, questions should be phrased thoughtfully and intentionally with the goal of 
 minimizing biases during this stage.
-Following best practices from the hiring literature (e.g. [Bohnet, 2015]()), these responses, letters 
+Following best practices from the hiring literature (e.g. [Bohnet, 2015](https://www.degruyter.com/document/doi/10.4159/9780674545991/html?lang=en)), these responses, letters 
 or statements should be graded by several reviewers, using a clear, unambiguous set of rubrics that have 
 been vetted carefully to minimize biases. Some hack weeks have performed this grading using a blinded 
 set, where the names and demographics of the applicants were hidden from the raters. Other hack weeks 
@@ -117,9 +117,9 @@ have instead taken other information, for example career stage, home institution
 into account at this stage in order to mediate effects that may systematically disadvantage some candidates.
 Based on our current knowledge as organizers, there is no single best way to do this: while there are 
 well-documented effects that indicate that certain candidates may be disadvantaged based on their name 
-alone in hiring contexts (STUDY), some research also shows that committees that are careful about taking
+alone in hiring contexts [Gaddis, 2017](https://sociologicalscience.com/articles-v4-19-469/), some research also shows that committees that are careful about taking
 systematic effects and biases into account tend to do *worse* when demographic information about 
-the candidates is removed (ALSO STUDY). 
+the candidates is removed [Behaghel et al., 2014](https://sociologicalscience.com/articles-v4-19-469/). 
 
 Once all applications have been rated, the members of the organizing committee might then 
 take the ratings and carefully examine them for biases. For example, one may look at interrate reliability 
@@ -167,7 +167,7 @@ they may have experienced in the field.
 
 Some of the hack weeks, motivated by the idea of diversifying the workshop across many of these 
 categories, have used a selection process mediated by an algorithm (implemented in the software 
-[Entrofy]()) to support the selection. In this approach, the committee will generally perform 
+Entrofy [Huppenkothen et al., 2020](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231939#pone.0231939.ref094) to support the selection. In this approach, the committee will generally perform 
 some pre-selection based on the open-ended answers, personal statements and recommendation letters
 to identify a subset of qualified candidates. 
 The final cohort is selected using the algorithm, where the objective is to have the cohort 
@@ -177,7 +177,7 @@ of an algorithm does not make the selection intrinsically less biased**. Categor
 values within each category, and the target values are all chosen by humans, most likely the organizers, 
 and are thus subject to the biases these humans impose during creation of the application form or 
 the subsequent selection on open-ended answers. As Meredith Broussard states in her book 
-["Artificial Unintelligence"](), algorithms are social constructs, because they are constructed by humans.
+["Artificial Unintelligence"](https://go.gale.com/ps/i.do?id=GALE%7CA656011666&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=19328036&p=AONE&sw=w&userGroupName=anon%7E305c295c), algorithms are social constructs, because they are constructed by humans.
 Using algorithmic mediation in selection processes does not absolve organizers of critical 
 interrogation of their procedures and the biases they might impose on it, however unintentionally. 
 
