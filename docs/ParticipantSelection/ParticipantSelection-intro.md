@@ -38,7 +38,7 @@ made
 Similarly, organizers should articulate a strategy for assessing whether candidates have the appropriate 
 skill level and are likely to participate in a way that creates a welcoming community for the group 
 as a whole. This is generally a hard problem: research from the hiring literature suggests that there 
-is an irreducible variance when trying to predict future performance from applications and intervies 
+is an irreducible variance when trying to predict future performance from applications and interviews 
 (see e.g. [Highhouse, 2008](https://www.sciencedirect.com/science/article/abs/pii/S1053482297900292?via%3Dihub)). This is also the place where unconscious biases are most likely to creep 
 into the process. Our best advice is to think critically about the selection process, ensure that all 
 committee members are aware of common unconscious biases and are reminded of them throughout the selection 
